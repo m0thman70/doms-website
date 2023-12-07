@@ -24,7 +24,7 @@ paginate = 10
 
 [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/m0th05"
+    url  = "https://mastodon.social/@m0th05"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
