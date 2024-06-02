@@ -26,6 +26,13 @@ paginate = 10
     name = "twitter"
     url  = "https://mastodon.social/@m0th05"
 
+[[params.social]]
+    name = "twitch"
+    url = "https://www.twitch.tv/m0th005"
+[[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCDi3R6oanDBA8dNKtg4GpCQ"
+
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
